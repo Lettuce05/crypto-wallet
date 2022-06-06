@@ -31,5 +31,29 @@ export default colors = {
             error: "#ff6565",
             success: "#08b211"
         }
+    },
+    light: {
+        primary: {
+            radial_bg_1: "#209cff",
+            radial_bg_2: "#68e0cf",
+            dark_tab_bar: "#222222",
+            main: "#000000",
+            accent_1: "#717171",
+            accent_2: "#0e53ef",
+            white: "#fff",
+            shadow_bg: "#787878",
+            bg: "#f6f6f6",
+            main_gradient_1: "#1A58F7",
+            main_gradient_2: "#001E6B",
+            card_bg: "#303030",
+            card_bg_2_1: "#000428",
+            card_bg_2_2: "#004E92"
+        },
+        secondary: {
+
+        },
+        notification: {
+
+        }
     }
 }
